@@ -1,0 +1,23 @@
+body{
+	font-family: "微软雅黑";
+	width: 650px;
+	
+
+	border: solid;
+	margin: auto;
+}
+fieldset{
+	width: 600px;
+	text-align: center;
+
+}
+tbody{
+	padding: 10px;
+}
+th{
+	text-align: center;
+}
+
+td.add{
+	width: 300px;
+}

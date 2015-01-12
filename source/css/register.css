@@ -1,0 +1,73 @@
+body{
+	width: 720px;
+	height:330px;
+	margin: auto;
+	
+}
+form{
+	padding:10px;
+	margin:auto;
+}
+li{
+	list-style-type: none;
+	padding-top: 10px;
+}
+input:hover{
+
+}
+input{
+	font-size: 25px;
+	width: 400px;
+}
+fieldset{
+	color: #85A71E;
+	font-family: "微软雅黑";
+	padding: 5px;
+
+	height: 300px;
+}
+label{
+	text-align: right;
+	font-size: 25px;
+	
+}
+legend{
+	color: #85A71E;
+	font-size: 25px;
+}
+li.button{
+	width: 250px;
+	margin:auto;
+	margin-top: 20px;
+}
+button{
+	
+
+	font-family: "微软雅黑";
+	font-size: 18px;
+	border: none;
+	margin: auto;
+}
+button.register{
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+a.return{
+	padding:2px;
+
+	color: #BFF071;
+	font-family: "微软雅黑";
+	font-size: 18px;
+	border: none;
+	margin: auto;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+button.clear{
+		border-top-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+}
+button.add{
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
