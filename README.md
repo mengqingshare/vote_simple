@@ -1,0 +1,2 @@
+# vote_simple
+基于CodeIgniter和Highcharts实现的简易投票器
